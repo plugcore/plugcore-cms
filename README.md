@@ -1,4 +1,4 @@
-# Plugcore CMS (En construcción)
+# Plugcore CMS (en construcción)
  
 ![plugcore.com](https://raw.githubusercontent.com/plugcore/plug/master/_docs/logo.png "plugcore.com")
 
