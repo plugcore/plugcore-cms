@@ -1,8 +1,6 @@
-# Plugcore CMS
+# Plugcore CMS (En construcción)
  
 ![plugcore.com](https://raw.githubusercontent.com/plugcore/plug/master/_docs/logo.png "plugcore.com")
-
-__En construcción__
 
 CMS utilizando Angular, Nodejs (con Plugcore framework) y Mongodb.
 
